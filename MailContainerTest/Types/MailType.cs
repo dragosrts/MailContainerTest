@@ -2,8 +2,9 @@
 {
     public enum MailType
     {
-        StandardLetter,
-        LargeLetter,
-        SmallParcel
+        Unspecified = 0,
+        StandardLetter = 1,
+        LargeLetter = 2,
+        SmallParcel = 3
     }
 }

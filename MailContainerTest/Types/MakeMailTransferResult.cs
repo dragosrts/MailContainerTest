@@ -2,6 +2,6 @@
 {
     public class MakeMailTransferResult
     {
-        public bool Success { get; set; }   
+        public bool Success { get; set; }
     }
 }

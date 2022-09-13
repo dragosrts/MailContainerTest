@@ -32,3 +32,14 @@ You should add suitable tests into the MailContainerTest.Test project.
 
 There are no additional constraints, use the packages and approach you feel appropriate, aim to spend no more than 2 hours. Please update the readme with specific comments on any areas that are unfinished and what you would cover given more time.
 
+
+### DEV NOTES
+
+I have spend about 2h 40mins 
+
+TODO:
+ - Add comments about why I thought about some decisions
+ - Create more Unit Tests
+ - Create more Test Scenarios
+ - Add Exception management
+ - Restructure code in multiple projects (Data Store moved to Infrastructure/Database layer && Types moved to Domain layer && MailTransferService moved to Application layer)
